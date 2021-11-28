@@ -1,0 +1,124 @@
+/*Begin here*/
+
+.btn{
+	top: 302px;
+	left: 98px;
+	width: 150px;
+	height: 44px;
+	background: #00ABE7 0% 0% no-repeat padding-box;
+	box-shadow: 0px 0px 0px #00000029;
+	border-radius: 30px;
+	opacity: 1;
+	color: #FFFFFF;
+
+}
+
+.btn:focus{
+	background: #00ABE7 0% 0% no-repeat padding-box;
+ 	box-shadow: 0px 0px 0px #00000029;
+	border: 1px solid #0070B4;
+	border-radius: 30px;
+	opacity: 1;
+}
+.btn:hover{
+    background: #7FD5F3 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 0px #00000029;
+    border-radius: 30px;
+    opacity: 1;
+}
+.btn:active{
+	background: #0070B4 0% 0% no-repeat padding-box;
+	box-shadow: 0px 0px 0px #00000029;
+	border-radius: 30px;
+	opacity: 1;
+}
+.btn:disabled{
+	background: #BFEAF9 0% 0% no-repeat padding-box;
+	box-shadow: 0px 0px 0px #00000029;
+	border-radius: 30px;
+	opacity: 1;
+}
+
+
+.btn1{
+	top: 404px;
+	left: 98px;
+	width: 150px;
+	height: 44px;
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	box-shadow: 0px 0px 0px #00000029;
+	border: 1px solid #09ABE7;
+	border-radius: 30px;
+	opacity: 1;
+	color: #00ABE7;
+
+}
+.btn1:focus{
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	box-shadow: 0px 0px 0px #00000029;
+	border: 1px solid #0070B4;
+	border-radius: 30px;
+	opacity: 1;
+}
+.btn1:hover{
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	box-shadow: 0px 0px 0px #00000029;
+	border: 1px solid #C0EAF8;
+	border-radius: 30px;
+	opacity: 1;
+	color: #80D6F2;
+}
+.btn1:active{
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	box-shadow: 0px 0px 0px #00000029;
+	border: 1px solid #0070B4;
+	border-radius: 30px;
+	opacity: 1;
+}
+.btn1:disabled{
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	box-shadow: 0px 0px 0px #00000029;
+	border: 1px solid #C0EAF8;
+	border-radius: 30px;
+	opacity: 1;
+	color: #80D6F2;
+}
+
+
+.btn2{
+ top: 518px;
+left: 98px;
+width: 150px;
+height: 44px;
+color: #FFFFFF;
+border: 1px solid #C0EAF8;
+background: #30AB5B 0% 0% no-repeat padding-box;
+box-shadow: 0px 0px 0px #00000029;
+opacity: 1;
+}
+.btn2:focus{
+ 
+}
+.btn2:hover{
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	box-shadow: 0px 0px 0px #00000029;
+	border: 1px solid #C0EAF8;
+	border-radius: 30px;
+	opacity: 1;
+	color: #80D6F2;
+}
+.btn2:active{
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	box-shadow: 0px 0px 0px #00000029;
+	border: 1px solid #0070B4;
+	border-radius: 30px;
+	opacity: 1;
+}
+.btn2:disabled{
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	box-shadow: 0px 0px 0px #00000029;
+	border: 1px solid #C0EAF8;
+	border-radius: 30px;
+	opacity: 1;
+	color: #80D6F2;
+}
